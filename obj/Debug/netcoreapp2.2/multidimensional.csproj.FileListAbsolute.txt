@@ -1,0 +1,11 @@
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/multidimensional/obj/Debug/netcoreapp2.2/multidimensional.csprojAssemblyReference.cache
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/multidimensional/obj/Debug/netcoreapp2.2/multidimensional.csproj.CoreCompileInputs.cache
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/multidimensional/obj/Debug/netcoreapp2.2/multidimensional.AssemblyInfoInputs.cache
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/multidimensional/obj/Debug/netcoreapp2.2/multidimensional.AssemblyInfo.cs
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/multidimensional/bin/Debug/netcoreapp2.2/multidimensional.deps.json
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/multidimensional/bin/Debug/netcoreapp2.2/multidimensional.runtimeconfig.json
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/multidimensional/bin/Debug/netcoreapp2.2/multidimensional.runtimeconfig.dev.json
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/multidimensional/bin/Debug/netcoreapp2.2/multidimensional.dll
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/multidimensional/bin/Debug/netcoreapp2.2/multidimensional.pdb
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/multidimensional/obj/Debug/netcoreapp2.2/multidimensional.dll
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/multidimensional/obj/Debug/netcoreapp2.2/multidimensional.pdb
